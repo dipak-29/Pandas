@@ -1,0 +1,7 @@
+why we need to explore data?
+1- understand the data set
+2- identify the problem
+3- plan next steps
+
+head()
+tail(n)

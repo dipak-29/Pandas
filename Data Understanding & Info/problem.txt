@@ -1,0 +1,13 @@
+1- columns, rows ?
+2- what type of data?
+3- missing data?
+
+info() is a method that gives the concince summary of dataframe
+1- number of rows and columns
+2- column name
+3- data types int64 float64 object
+4- non null counts if missing then we can know
+5- memory usage of data frame
+
+describe() is used to provide summary of descriptive statistics for 
+numerical columns in dataframe.
