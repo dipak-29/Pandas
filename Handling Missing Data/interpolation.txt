@@ -1,0 +1,26 @@
+1-interpolation is the techniques where we fill the estimated value in missing value
+in numerical column only.
+
+10
+20
+nan -30 is estimated value
+40
+50
+
+1000
+2000
+3000
+4000
+
+6000
+7000
+
+
+linear interpolation
+1- preserves data integrity
+2- smooth trends
+3- avoid data loss
+
+interpolate( ) method is used to fill the missing value in dataframe
+it finds the estimates data on the basis of available data and analyzes and fills the estimated data
+

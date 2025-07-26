@@ -1,0 +1,9 @@
+merging and joining refers to combining data fromm multiple dataframes based on common keys or indices.
+
+#merging
+
+pd.merge(df1, df2, on='common column name', how='type of join')
+this is used to combine two dataframes based on one or more keys(columns)
+
+
+#join types
